@@ -3,7 +3,9 @@
 If you find this software useful you can buy me a beer:
 
 XRB: xrb_19eddjrtk8z9t8zuc44eaa6z89cid15564k1k1iphbqybcwkjrfj9jpzm8s4
+
 ETH: 0x45d763A0cf7d143D79AE7E1f5196bB2370e49F97
+
 LTC: LM6P48B7xjrcCastrTWh8wmD6C4STDPYpV
 
 
